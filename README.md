@@ -1,4 +1,4 @@
-# Center Stage — Sunny Side Up Karaoke
+# LIFESONG — Social Karaoke
 
 A static A-Frame karaoke prototype for desktop, phone, tablet and compatible WebXR headsets. Each visitor plays an independent local game. There are no accounts, rooms, networking or shared scores.
 
